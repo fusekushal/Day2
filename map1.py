@@ -1,4 +1,12 @@
 def square_numbers(x):
+    """Function to return the square of numbers
+
+    Args:
+        x (int): the number that we want to find square for
+
+    Returns:
+        int: the square of the number that we passed
+    """
     return (x*x)
 
 funcs = [square_numbers]
