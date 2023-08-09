@@ -1,3 +1,4 @@
+#concatnation of strings using the concept of *args
 def strccat(*str):
     '''function to implement the concept of awrgs by concatnating arbitrary numbers of string'''
     fstr = " "

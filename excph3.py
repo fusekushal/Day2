@@ -1,4 +1,4 @@
-"""Program to implement exception handling"""
+"""Program to implement exception handling """
 try:
     x = input("Enter something:")
     y = int(float(x))

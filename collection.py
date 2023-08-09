@@ -1,3 +1,4 @@
+#program to list the anagrams together
 def group_anagrams(strs):
     """function to group anagrams
 
